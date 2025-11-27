@@ -1,1 +1,26 @@
-jjj
+Нет RemapSessions для этого MR
+Что такое RemapSessions?
+
+RemapSessions создаются автоматически когда:
+
+В MR есть изменения в файлах
+В этих файлах есть комментарии
+Приходит webhook от GitLab/GitHub
+Что делать?
+
+Вы можете:
+
+Посмотреть код и комментарии в самом GitLab/GitHub
+Добавить комментарии к коду в MR
+Внести изменения в MR - тогда RemapSessions создадутся автоматически
+
+
+
+
+
+Info SVG Vector 198
+Free Download Info 198 SVG vector file in monocolor and multicolor type for Sketch and Figma from Info 198 Vectors svg vector collection. Info 198 Vectors SVG vector illustration graphic art design format.
+
+COLLECTION: Kalai Oval Interface Icons
+LICENSE: PD License
+AUTHOR: Ananthanath A X Kalaiism
