@@ -1,8 +1,9 @@
 {
-  "version": "1.0.0",
-  "name": "Test Project",
+  "version": "1.5.0",
+  "name": "Test Project Master",
   "settings": {
     "enabled": true,
-    "mode": "production"
+    "mode": "production",
+    "debug": false
   }
 }
