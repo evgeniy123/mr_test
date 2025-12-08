@@ -1,9 +1,11 @@
 {
-  "version": "1.5.0",
-  "name": "Test Project Master",
+  "version": "2.0.0",
+  "name": "Test Project Feature Branch",
+  "description": "Новая версия с улучшениями",
   "settings": {
     "enabled": true,
-    "mode": "production",
-    "debug": false
+    "mode": "development",
+    "debug": true,
+    "newFeature": "активирована"
   }
 }
