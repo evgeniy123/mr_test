@@ -1,9 +1,11 @@
 {
-  "version": "1.5.0",
-  "name": "Test Project Master",
+  "version": "1.6.0",
+  "name": "Test Project Production",
+  "author": "Master Branch Team",
   "settings": {
     "enabled": true,
     "mode": "production",
-    "debug": false
+    "debug": false,
+    "timeout": 5000
   }
 }
